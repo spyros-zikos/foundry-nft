@@ -14,7 +14,7 @@ contract MintBasicNft is Script {
         // the devops doesn't really work
         // address mostRecentlyDeployed = DevOpsTools.get_most_recent_deployment("BasicNft", block.chainid);
         address MOST_RECENTLY_DEPLOYED = 0x029858839b2B2530E3f2AE516B91245EdeF1DE67;
-        
+
         mintNftOnContract(MOST_RECENTLY_DEPLOYED);
     }
 
@@ -29,7 +29,7 @@ contract MintBasicNft is Script {
 contract MintMoodNft is Script {
     function run() external {
         // Change those as needed
-        address MOST_RECENTLY_DEPLOYED = 0x5FbDB2315678afecb367f032d93F642f64180aa3;
+        address MOST_RECENTLY_DEPLOYED = 0xf4EAC916c50F25F26AFD94A6483DeC5c79e4BAc3;
 
         mintNftOnContract(MOST_RECENTLY_DEPLOYED);
     }
@@ -45,7 +45,7 @@ contract MintMoodNft is Script {
 contract FlipMoodNft is Script {
     function run() external {
         // Change those as needed
-        address MOST_RECENTLY_DEPLOYED = 0x5FbDB2315678afecb367f032d93F642f64180aa3;
+        address MOST_RECENTLY_DEPLOYED = 0xf4EAC916c50F25F26AFD94A6483DeC5c79e4BAc3;
         uint256 TOKEN_ID = 0;
         
         flipMoodNftOnContract(MOST_RECENTLY_DEPLOYED, TOKEN_ID);
