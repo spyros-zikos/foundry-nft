@@ -3,7 +3,11 @@
 We create 2 different kinds of NFTs.
 
 1. An IPFS Hosted NFT (BasicNft.sol)
-2. An SVG NFT (Hosted 100% on-chain) (MoodNft.sol)
+   - See it [here](https://testnets.opensea.io/assets/sepolia/0x029858839b2B2530E3f2AE516B91245EdeF1DE67/0)
+   - Sepolia contract address: 0x029858839b2B2530E3f2AE516B91245EdeF1DE67
+3. An SVG NFT (Hosted 100% on-chain) (MoodNft.sol)
+   - See it [here](https://testnets.opensea.io/assets/sepolia/0xf4EAC916c50F25F26AFD94A6483DeC5c79e4BAc3/0)
+   - Sepolia contract address: 0xf4EAC916c50F25F26AFD94A6483DeC5c79e4BAc3
 
 
 # Getting Started
