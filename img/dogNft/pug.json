@@ -1,0 +1,15 @@
+{
+    "name": "Dogie",
+    "image": "ipfs://QmSsYRx3LpDAb1GZQm7zZ1AuHZjfbPkD6J7s9r41xu1mf8",
+    "attributes": [
+        {
+            "trait_type": "Color",
+            "value": "Brown"
+        },
+        {
+            "trait_type": "Has Bone",
+            "value": "True"
+        }
+    ],
+    "description": "A pug to keep you company"
+}
